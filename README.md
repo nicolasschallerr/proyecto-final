@@ -9,5 +9,5 @@ Este proyecto gestiona usuarios, adopciones y más.
 Pull de la imagen:
 
 ```bash
-docker pull tuusuario/nombre-proyecto
+docker push nicolasschaller/probackend3:tagname
 ```
